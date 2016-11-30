@@ -15,6 +15,10 @@ public class GenerateQuestion {
 
 
 
+    private static String comparisonQuestion = "The colors in these images are effectively the same.";
+    private static String singleQuestion = "The colors in this image are effectively the same as the ones I am used to seeing on my phone ";
+
+
     public static void main(String [] args) {
 
         String header = "[[AdvancedFormat]]\r\n" +
@@ -48,7 +52,7 @@ public class GenerateQuestion {
 
             Document doc = Jsoup.connect(link).get();
 
-        /*    for(Element element :  doc.select("a[href~=(?i)\\.(dir)]") )
+            for(Element element :  doc.select("a[href~=(?i)\\.(dir)]") )
             {
                  doc = Jsoup.connect(link+"/" + element.attr("href")).get();
                  files = doc.select("a[href~=(?i)\\.(png|jpe?g)]");
@@ -58,7 +62,7 @@ public class GenerateQuestion {
                     Result2 = 1-Result;
                     bufferedWriter.append(makeImgComparison(element.attr("href") + files.get(i + Result).attr("href"),element.attr("href") +files.get(i+Result2).attr("href")));
                 }
-            }*/
+            }
 
             String folderName;
             for(Element element :  doc.select("a[href~=(?i)\\.(dir)]") )
@@ -104,14 +108,15 @@ public class GenerateQuestion {
                 "<img src=\"http://176.32.230.42/tedisagolli.com/images/" + url1 + "\" style=\"width: 240px; height: 400px;\" /> <img src=\"http://176.32.230.42/tedisagolli.com/images/" + url2 +"\" style=\"width: 240px; height: 400px;\" /> &nbsp;&nbsp;<br />\r\n" +
                 "<br />\r\n" +
                 "<span style=\"font-family:georgia,serif;\"><span style=\"font-size:16px;\">How would you respond to this statement?&nbsp;</span></span>\r\n" +
-                "\"<div><span style=\"font-size:16px;\"><span style=\"font-family:georgia,serif;\">&quot;These images are identical.&quot;</span></span></div>\r\n" +
+                "\"<div><span style=\"font-size:16px;\"><span style=\"font-family:georgia,serif;\">&quot;" + comparisonQuestion + ".&quot;</span></span></div>\r\n" +
                 "[[Choices]]\r\n" +
                 "Answer\r\n" +
                 "\r\n" +
                 "[[Answers]]\r\n" +
-                "Undecided\r\n" +
+                "Strongly Disagree\r\n" +
+                "Disagree\r\n" +
                 "Agree\r\n" +
-                "Disagree\r\n\r\n";
+                "Strongly Agree\r\n\r\n";
 
         return question;
     }
@@ -123,14 +128,14 @@ public class GenerateQuestion {
                 "<img src=\"http://176.32.230.42/tedisagolli.com/images/" + url + "\" style=\"width: 240px; height: 400px;\" /> <br />\r\n" +
                 "<br />\r\n" +
                 "<span style=\"font-family:georgia,serif;\"><span style=\"font-size:16px;\">How would you respond to this statement?&nbsp;</span></span>\r\n" +
-                "\"<div><span style=\"font-size:16px;\"><span style=\"font-family:georgia,serif;\">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>\r\n" +
+                "\"<div><span style=\"font-size:16px;\"><span style=\"font-family:georgia,serif;\">&quot; "+singleQuestion + "&quot;</span></span></div>\r\n" +
                 "[[Choices]]\r\n" +
                 "Answer\r\n" +
                 "\r\n" +
-                "[[Answers]]\r\n" +
-                "Undecided\r\n" +
+                "Strongly Disagree\r\n" +
+                "Disagree\r\n" +
                 "Agree\r\n" +
-                "Disagree\r\n\r\n";
+                "Strongly Agree\r\n\r\n";
 
         return question;
     }
