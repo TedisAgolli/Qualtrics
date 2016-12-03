@@ -1,453 +1,1071 @@
 [[AdvancedFormat]]
-[[Block:FB.dir/]]
+[[Block:Image Comparison]]
 [[Question:Matrix]]
-<img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <br />
+<img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
 [[Choices]]
 Answer
 
 [[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00234243.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00234243%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00478484.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00478484%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00517791%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00517791.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00022709%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00022709.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00038111.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00038111%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00127181%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00127181.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Flashlight.dir/Flashlightscreenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Flashlight.dir/Flashlightscreenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00043608.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00043608%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00101292%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00101292.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00187896%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00187896.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00002815%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00002815.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00116764.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00116764%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00155854%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00155854.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00111987%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00111987.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00146976%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00146976.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00228521.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00228521%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00122198%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00122198.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00125000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00125000%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00213889.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00213889%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00002959.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00002959%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00023985%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00023985.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00211303.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00211303%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00379950%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00379950.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00059389.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00059389%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00339760%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00339760.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00008185%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00008185.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00153241.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00153241%20(2).png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00216011%20(2).png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00216011.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Block: Identical Images]]
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Flashlight.dir/Flashlightscreenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Flashlight.dir/Flashlightscreenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00002815.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00002815.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00002959.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00002959.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00000000.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00000000.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00008185.png" style="width: 240px; height: 400px;" /> <img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00008185.png" style="width: 240px; height: 400px;" /> &nbsp;&nbsp;<br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;The colors in these images are effectively the same..&quot;</span></span></div>
+[[Choices]]
+Answer
+
+[[Answers]]
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
+
+[[Block:FB.dir/]] 
+[[Question:Matrix]]
+<img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <br />
+<br />
+<span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
+[[Choices]]
+Answer
+
+Strongly Disagree
+Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00234243%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00478484%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/FB.dir/FBscreenshot_00517791%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Block:FaceQ.dir/]] 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00022709%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00038111%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/FaceQ.dir/FaceQscreenshot_00127181%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Block:Flashlight.dir/]] 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Flashlight.dir/Flashlightscreenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Block:Instagram.dir/]] 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00043608%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00101292%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Instagram.dir/Instagramscreenshot_00187896%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Block:Messenger.dir/]] 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00002815%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00116764%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Messenger.dir/screenshot_00155854%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Block:Pandora.dir/]] 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00111987%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00146976%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Pandora.dir/screenshot_00228521%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Block:Skype.dir/]] 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00122198%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00125000%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Skype.dir/screenshot_00213889%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Block:Snapchat.dir/]] 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00002959%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00023985%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00211303%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Snapchat.dir/screenshot_00379950%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Block:Twitter.dir/]] 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00000000%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00059389%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/Twitter.dir/screenshot_00339760%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Block:WhatsApp.dir/]] 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00008185%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00153241%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
 [[Question:Matrix]]
 <img src="http://176.32.230.42/tedisagolli.com/images/WhatsApp.dir/screenshot_00216011%20(2).png" style="width: 240px; height: 400px;" /> <br />
 <br />
 <span style="font-family:georgia,serif;"><span style="font-size:16px;">How would you respond to this statement?&nbsp;</span></span>
-"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot;This image is identical to the one I am used to seeing on my phone.&quot;</span></span></div>
+"<div><span style="font-size:16px;"><span style="font-family:georgia,serif;">&quot; The colors in this image are effectively the same as the ones I am used to seeing on my phone &quot;</span></span></div>
 [[Choices]]
 Answer
 
-[[Answers]]
-Undecided
-Agree
+Strongly Disagree
 Disagree
+Agree
+Strongly Agree
 
